@@ -1,5 +1,5 @@
 # Moira
-## A Functionally Pure, Declaritive, Deterministic, State Machine API (where if you have a Terminating State, it returns it to its Initial State)
+## A Functionally Pure, Declaritively Constructed, Deterministic, State Machine with its Hydra API (where if you have a Terminating State, it returns it to its Initial State)
 
 ### Start with your initial state
 
