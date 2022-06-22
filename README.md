@@ -3,4 +3,4 @@
 
 ### Moira is a Declaritive State Machine Abstract Syntax Plugin for Hydra
 
-#### Moira also has a plugin architechture for special things like Exception Handling
+#### Moira also has a plugin architechture for special things like Exception Handling (See Clotho Plugin)
