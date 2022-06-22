@@ -1,12 +1,4 @@
 # Moira
-## A Functionally Pure, Declaritively Constructed, Deterministic, State Machine with its Hydra API (where if you have a Terminating State, it returns it to its Initial State)
+![download](https://user-images.githubusercontent.com/107733608/174984742-9acd1b8b-ca3f-44dd-9186-0c2fa71827d4.jpg)
 
-### Start with your initial state
-
-
-### Describe your transitions
-
-### Moira uses Hydra to build your API
-
-### Moira uses Clothos to handle uncaught Exceptions and give a deterministic state
-
+### Moira is a Declaritive State Machine Abstract Syntax Plugin for Hydra
